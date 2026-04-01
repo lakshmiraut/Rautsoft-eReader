@@ -4,7 +4,8 @@
 **Rautsoft eReader** is a self-contained Windows application that reads text aloud from local files or web pages. It supports Bengali, Hindi, and English narration across EPUB, DOCX, TXT, and HTML formats.
 
 ---
-
+## Installation
+Just download the exe file, [Rautsoft eReader for Bengali, Hindi and English](https://github.com/lakshmiraut/Rautsoft-eReader/blob/main/Rautsoft%20eReader.exe) by clicking the link and then clicking the download (down arrow key) on the right side. After downloading,  click on the downloaded file whenever you like to use this app.  
 ## Opening a File
 
 **Local file (EPUB, DOCX, TXT, HTML):**
