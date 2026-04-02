@@ -5,7 +5,7 @@
 
 ---
 ## Installation
-Just download the exe file, [Rautsoft eReader for Bengali, Hindi and English](https://github.com/lakshmiraut/Rautsoft-eReader/blob/main/Rautsoft%20eReader.exe) by clicking the link and then clicking the download (down arrow key) on the right side. After downloading,  click on the downloaded file whenever you like to use this app.  
+Just download the exe file, [Rautsoft eReader for Bengali, Hindi and English](https://github.com/lakshmiraut/Rautsoft-eReader/blob/main/Rautsoft%20eReader.exe) by clicking the link and then clicking the download (down arrow key) on the right side. For a 32bit windows, click this link [Rautsoft eReader32.exe](https://github.com/lakshmiraut/Rautsoft-eReader/blob/main/Rautsoft%20eReader32.exe) After downloading,  click on the downloaded file whenever you like to use this app.  
 ## Opening a File
 
 **Local file (EPUB, DOCX, TXT, HTML):**
