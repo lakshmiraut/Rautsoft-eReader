@@ -22,7 +22,7 @@ Paste the URL into the address bar on the second toolbar and click **Fetch**.
 2. In the first toolbar, select your **Language** from the Lang box, then choose a **Narrator**.
 3. Press **▶** to start. Use **⏸ / ⏵ / ⏹** to pause, resume, or stop.
 4. While reading a paragraph aloud, pressing SPACE bar moves to the next paragraph to read aloud, with a lag for reading transition.
-5. pagedown key and right-arrow goes to the next page view, similarly pageup and left-arrow key to the previous page view.
+5. Pressing page-down key or the right-arrow key goes to the next page view, similarly pressing the pag-eup or the left-arrow key goes to the previous page view. 
 
 
 ---
