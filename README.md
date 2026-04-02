@@ -21,6 +21,9 @@ Paste the URL into the address bar on the second toolbar and click **Fetch**.
 1. Click once in the main text area at the position where you want reading to begin. **One click only — double-clicking opens the dictionary.**
 2. In the first toolbar, select your **Language** from the Lang box, then choose a **Narrator**.
 3. Press **▶** to start. Use **⏸ / ⏵ / ⏹** to pause, resume, or stop.
+4. While reading a paragraph aloud, pressing SPACE bar moves to the next paragraph to read aloud, with a lag for reading transition.
+5. pagedown key and right-arrow goes to the next page view, similarly pageup and left-arrow key to the previous page view.
+
 
 ---
 
